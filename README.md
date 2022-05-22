@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi there, I'm **xiao gan**,  a **computer science and technology** 🚀 from HBUST 🏛, currently. 
+Hi there, I'm **xiao gan**,  a **computer science and technology student** 🚀 from Hubei University of Science and Technology 🏛.
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
