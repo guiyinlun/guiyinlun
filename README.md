@@ -10,7 +10,7 @@ Hi there, I'm **xiao gan**,  a **computer science and technology student** 🚀 
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I'm currently a student at Hubei University of Science and Technology;
-- 🌱I am currently in my junior year and looking for a job; 
+- 🌱I am currently in my junior year and looking for a job,Here is my resume:https://github.com/guiyinlun/resume; 
 - 🤔 I have a wide range of interests, like animation, games, music, playing guitar, video editing and so on;
 - 💬 I am an optimistic, cheerful and helpful person;
 - 📫 my QQ : 1178814817
