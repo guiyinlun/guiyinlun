@@ -5,8 +5,6 @@
 
 Hi there, I'm **xiao gan**,  a **computer science and technology student** 🚀 from Hubei University of Science and Technology 🏛.
 
-<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I'm currently a student at Hubei University of Science and Technology;
@@ -14,3 +12,5 @@ Hi there, I'm **xiao gan**,  a **computer science and technology student** 🚀 
 - 🤔 I have a wide range of interests, like animation, games, music, playing guitar, video editing and so on;
 - 💬 I am an optimistic, cheerful and helpful person;
 - 📫 my QQ : 1178814817
+
+![QQ图片20220522213931](https://user-images.githubusercontent.com/98374648/169771062-ed23e856-2d73-4185-bc70-a383e378046c.jpg)
